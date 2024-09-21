@@ -1,0 +1,82 @@
+[
+    {
+        "customer_input": "I want to buy a phone.",
+        "chatbot_response": "Latest smartphone with excellent camera and battery life. Price range: 600 to 1000."
+    },
+    {
+        "customer_input": "No, I can offer 604.",
+        "chatbot_response": "Great! I can accept your offer of 604. It's a deal!"
+    },
+    {
+        "customer_input": "I want to buy a laptop.",
+        "chatbot_response": "High-performance laptop with 16GB RAM and 512GB SSD. Price range: 900 to 1300."
+    },
+    {
+        "customer_input": "No, I can offer 1142.",
+        "chatbot_response": "Great! I can accept your offer of 1142. It's a deal!"
+    },
+    {
+        "customer_input": "I want to buy a laptop.",
+        "chatbot_response": "High-performance laptop with 16GB RAM and 512GB SSD. Price range: 900 to 1300."
+    },
+    {
+        "customer_input": "No, I can offer 1007.",
+        "chatbot_response": "Great! I can accept your offer of 1007. It's a deal!"
+    },
+    {
+        "customer_input": "I want to buy a laptop.",
+        "chatbot_response": "High-performance laptop with 16GB RAM and 512GB SSD. Price range: 900 to 1300."
+    },
+    {
+        "customer_input": "No, I can offer 1295.",
+        "chatbot_response": "Great! I can accept your offer of 1295. It's a deal!"
+    },
+    {
+        "customer_input": "I want to buy a laptop.",
+        "chatbot_response": "High-performance laptop with 16GB RAM and 512GB SSD. Price range: 900 to 1300."
+    },
+    {
+        "customer_input": "No, I can offer 1143.",
+        "chatbot_response": "Great! I can accept your offer of 1143. It's a deal!"
+    },
+    {
+        "customer_input": "I want to buy a phone.",
+        "chatbot_response": "Latest smartphone with excellent camera and battery life. Price range: 600 to 1000."
+    },
+    {
+        "customer_input": "No, I can offer 684.",
+        "chatbot_response": "Great! I can accept your offer of 684. It's a deal!"
+    },
+    {
+        "customer_input": "I want to buy a headphones.",
+        "chatbot_response": "Noise-canceling headphones with superior sound quality. Price range: 150 to 250."
+    },
+    {
+        "customer_input": "No, I can offer 188.",
+        "chatbot_response": "Great! I can accept your offer of 188. It's a deal!"
+    },
+    {
+        "customer_input": "I want to buy a phone.",
+        "chatbot_response": "Latest smartphone with excellent camera and battery life. Price range: 600 to 1000."
+    },
+    {
+        "customer_input": "No, I can offer 672.",
+        "chatbot_response": "Great! I can accept your offer of 672. It's a deal!"
+    },
+    {
+        "customer_input": "I want to buy a headphones.",
+        "chatbot_response": "Noise-canceling headphones with superior sound quality. Price range: 150 to 250."
+    },
+    {
+        "customer_input": "No, I can offer 229.",
+        "chatbot_response": "Great! I can accept your offer of 229. It's a deal!"
+    },
+    {
+        "customer_input": "I want to buy a headphones.",
+        "chatbot_response": "Noise-canceling headphones with superior sound quality. Price range: 150 to 250."
+    },
+    {
+        "customer_input": "No, I can offer 232.",
+        "chatbot_response": "Great! I can accept your offer of 232. It's a deal!"
+    }
+]
