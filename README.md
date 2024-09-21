@@ -8,8 +8,11 @@ This project implements a negotiation chatbot designed to simulate a negotiation
 ## Project Structure
 negotiation_chatbot
 ── dataset_generator.py        # Contains code to generate the dataset
+
 ── negotiation_logic.py         # Contains the negotiation logic and sentiment analysis
+
 ── train_model.py               # Contains the training code for the model
+
 ── requirements.txt             # Contains dependencies
 
 ## Features
